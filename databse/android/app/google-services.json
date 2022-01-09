@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "559322999112",
+    "project_id": "logindatabase-75b15",
+    "storage_bucket": "logindatabase-75b15.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559322999112:android:0a51176600b3fd21a82b7d",
+        "android_client_info": {
+          "package_name": "com.example.databse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559322999112-3cfppvuj6qhrm8sfvtbvaprojgqr61il.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.databse",
+            "certificate_hash": "24824ccbca7ab396ffaeeaed5bad0dba2efcde10"
+          }
+        },
+        {
+          "client_id": "559322999112-p3jd5r4ppgbv7lid4i9cp77b71m8r34a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqaVDAFsy71CGoVjs_kiuB3sTohY2dBFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559322999112-p3jd5r4ppgbv7lid4i9cp77b71m8r34a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
